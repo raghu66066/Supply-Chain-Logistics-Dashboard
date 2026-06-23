@@ -1,6 +1,9 @@
 # Supply-Chain-Logistics-Dashboard
 Interactive supply chain dashboard in Power BI
 
+![Alt text](https://github.com/raghu66066/Supply-Chain-Logistics-Dashboard/blob/4badbafa740ad4720018b23b9850bfd3b8adcda9/Images_used/Samsung_Supply%20chain%20dashboard.png)
+
+
 
 Power BI Project with this complete dashboard tutorial for 2026! 
 
